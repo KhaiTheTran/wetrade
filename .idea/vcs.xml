@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-7-registration-login-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/weTrade" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StockTracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/display" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/login" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/portfolio-rebalancer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stock-tracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stock-tracker-dashboard" vcs="Git" />
+  </component>
+</project>

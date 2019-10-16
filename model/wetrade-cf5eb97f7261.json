@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wetrade-255801",
+  "private_key_id": "cf5eb97f7261895b58b43b5754b361f4726680cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4Pe5rxfL55aeK\nEhsHppECRvdClA8tAv6alct34E+tk/j21G0aulNdF+QyxRx4Q0FRTZFKiHVmL1o+\n6r4r5I7nH66ItE2uChhFXZ3ks+VEzfuqZh2Y6442lQw6aij38a3Iqyh/9qXY/45u\nH8jq2nqvY1MoUL6p/sm7EZH25hw+laeJ8YF1NcOraISOX2NZEHDilv4027m/Gnm+\n7i3z5+VhtteLBuzZcZldfN2JznGk9cur1KFKd/UQzjEb2lBaelOELHlAeWYIo5rC\nd3D/WdELiCR8yP6upuaDfz2Rn7+MPqkVtk3hXvBQJ/6SabZNtM5wEImFO2DuFHlF\nwIlv5u/jAgMBAAECggEAESoH37d5yuknwhest/o/ESi+WVAE1+srAAjLg1f85E1g\nSNKCdZZ9NLOImWg+nj+ZwrLIwdpToZjwveLNo7Yvz/1mG6s8f2XGXBP8JTXTOqU7\n+GR6BmiPf6tED98bAPpdd8/mPoGicsRgJwdEBwkim9tTgHKBSMIJVimtYQSQBg5v\npL53UdCRCnAu/knSWhc9OxLf93KsFBpTZqDEQadnafj1+v4dWOBvRC02EYMPxqsX\nU1D7TEA7rsVfDJZvqaMkpHgIV+Av/C4Yvtliz0dtici7MgIP1//Rpu/4zUgJ0m1y\nocUV9HO1vKZ27nJ3VKtePHHhcRA4yY/dLUgC9qimcQKBgQDiWq8OGUBvZI7m4Bhm\n8OrxxTBBFmcPQCXxwp3HbFqt4fidU27PapH+1xlm5lc8pWBJrl9cByNtzW99NG9F\nUT8GGJHOy7zfj+nCC27ej2SqoIi1A1YczHFeb/3qHJv2ijwoCKBcfZE2lPN3ScPF\nsJUZQiov3bzJNprJIJXfjgb18wKBgQDQX0j9K13tnMZk6NbnHEAbtUPkyqdrodgv\nz1vUw+b8HHWg7Nnd88x/r3r0YB8fSk7LSVvAcR2lQ3OXVK/RW+yxqzmF9dX2F92Y\nMBlhCZ5ynaMg85lr9GDxbx2g+VRpPhVT8mjT9C49NPBTrCFI2Tio4X/hJskLaLRh\nFMkKq1HqUQKBgA19niVW9/IrqiC0hn/MKBSUzhVzAl10U06fbMvv90+ZwjmOOXJ/\nRYhMxaTOYbCpop2BmQlhG4l1zwlFUMRu3TS9ziLnHbCtYR9BkzAMl9FblApF0qIQ\nxUj9n8KORfVhs8gnC3e3vCnmosQfT12+8oP4347Oxmuvp3YJTSVvz5ZlAoGBAJ66\nZvxMA8IUceC+qa3ljERPIYfwg/ZulCNfXwHFtXgJKeXLZu83X2lIwG3Vpv+L+FfM\n6vK+eCnDJxN5NHFUCAsTdr9AFJvhdDEROtP7otKGmJRqXE2rHAnubfCI3a9J1q9a\n8lW7JVoEsKncboJyzkF/fY2CoRVqzjVBwx+4f67xAoGBAIsnOOMo4ZDnwJU4/58R\nOaPuzTjolekqdZVpAuVuJVrD2yZUuB2kRAGs+i+LDLz84ZkMifldm6wNyr8qOpJl\n88UxkNXHQmJkSw7Gn5UDQTYDoq3nVK45375uPph0DeJhgH8geQJH0526493aYqFH\n40KmT86PC0G/hF48Tnk93tHv\n-----END PRIVATE KEY-----\n",
+  "client_email": "automl@wetrade-255801.iam.gserviceaccount.com",
+  "client_id": "116913606609618913961",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/automl%40wetrade-255801.iam.gserviceaccount.com"
+}
