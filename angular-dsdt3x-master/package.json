@@ -11,7 +11,7 @@
     "zone.js": "0.9.1",
     "hammerjs": "2.0.8",
     "classlist.js": "1.1.20150312",
-    "@angular/core": "8.2.10",
+    "@angular/core": "10.2.5",
     "@angular/forms": "8.1.2",
     "@angular/common": "8.1.2",
     "@types/hammerjs": "2.0.36",
